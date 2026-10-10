@@ -6,5 +6,6 @@
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}.toast{transition:none}}
 
 .metric:last-child strong{font-size:1.25rem;line-height:2.07}
+.hero-lead,.metric{overflow-wrap:normal;word-break:normal;hyphens:none}
 
 .section-heading>*{min-width:0}@media(max-width:380px){.section-heading h2{font-size:1.5rem}}
