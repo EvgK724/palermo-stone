@@ -1,0 +1,31 @@
+{
+  "sourceFile": "naville-1903-verso-source.png",
+  "sourcePixels": [
+    1924,
+    2992
+  ],
+  "sha256": "33a933e8e4e74603ac6495099a5cb94b20abcaafb2fc76e739c6fc24e1665d47",
+  "sourceUnmodified": true,
+  "wrapper": "neon-verso.svg",
+  "viewBox": [
+    0,
+    72,
+    1924,
+    2784
+  ],
+  "pageMarginClipOriginalCoordinates": "M 1645,72 L 1770,72 L 1878,245 L 1892,390 L 1820,600 L 1810,845 L 1740,1190 L 1685,1320 L 1600,1410 L 1530,1640 L 1430,1870 L 1415,1940 L 1380,2150 L 1315,2370 L 1265,2485 L 1240,2660 L 1200,2745 L 1050,2795 L 960,2825 L 910,2835 L 830,2800 L 715,2775 L 665,2785 L 605,2830 L 565,2850 L 455,2815 L 335,2770 L 205,2700 L 160,2610 L 110,2485 L 70,2360 L 22,2220 L 18,2170 L 50,2090 L 14,2065 L 16,1935 L 58,1890 L 108,1810 L 112,1780 L 35,1760 L 28,1600 L 42,1430 L 117,1320 L 141,1190 L 142,1030 L 205,915 L 283,820 L 328,708 L 407,599 L 509,545 L 660,453 L 780,407 L 905,365 L 945,320 L 964,253 L 1013,176 L 1037,153 L 1160,153 L 1285,230 L 1435,262 L 1530,236 L 1592,189 Z",
+  "displayTreatment": "Browser-native SVG: original dark ink is separated from local paper illumination (Gaussian blur 18 source pixels minus source, luminance contrast to cyan opacity); subtle blurred duplicate behind the original linework. No pixel edits, no glyph redrawing, no filled lacunae. The SVG presentation filter affects visibility; the unchanged original remains available for comparison.",
+  "historicalSource": "Édouard Naville, La pierre de Palerme, Recueil de travaux 25 (1903), pp. 64–81, plate II B, verso.",
+  "authorLife": "1844–1926",
+  "scanProvider": "Harold B. Lee Library, Brigham Young University / Internet Archive",
+  "landingUrl": "https://archive.org/details/recueildetravaux25masp/page/n75/mode/1up",
+  "pdfUrl": "https://archive.org/download/recueildetravaux25masp/recueildetravaux25masp.pdf",
+  "pdfPageOneBased": 75,
+  "license": "Public domain: author died 1926; first publication 1903. Commons identifies the historical plate as PD-old-70-expired.",
+  "rightsReference": "https://commons.wikimedia.org/wiki/File:Palermo_stone-verso_side.jpg",
+  "bibliographyReference": "https://www.ifao.egnet.net/bases/beo/beo5012",
+  "captionRU": "Историческая прорисовка: Édouard Naville, La pierre de Palerme, 1903, pl. II; скан Harold B. Lee Library / Internet Archive. Общественное достояние. Неоновое оформление — современное.",
+  "interpretationLimitRU": "Историческое чтение знаков, а не микросъёмка поверхности и не окончательная реконструкция текста. Цвет не имеет археологического значения.",
+  "icon": "palermo-icon.svg",
+  "iconMeaning": "Original schematic stone-fragment icon. The strokes are abstract incisions, not hieroglyphic writing or a translated passage."
+}

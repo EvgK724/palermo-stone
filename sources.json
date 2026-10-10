@@ -1,0 +1,88 @@
+{
+  "nuzzolo2021": {
+    "title": "M. Nuzzolo (2021), The Palermo Stone and Its Associated Fragments: New Discoveries on the Oldest Royal Annals of Ancient Egypt, JEA 107, 57–78",
+    "url": "https://doi.org/10.1177/03075133211049465",
+    "type": "Первичное исследование; текст автора, доступный на ResearchGate.",
+    "supports": "Современная идентификация материала; размеры; хранение; семь фрагментов; методы исследования; конкретные записи Сахура.",
+    "fullText": "https://www.researchgate.net/publication/356658465_The_Palermo_Stone_and_Its_Associated_Fragments_New_Discoveries_on_the_Oldest_Royal_Annals_of_Ancient_Egypt"
+  },
+  "charles2018": {
+    "title": "Czech Institute of Egyptology, Charles University — New research and insights into the Palermo Stone (2018)",
+    "url": "https://cegu.ff.cuni.cz/en/new-research-and-insights-into-the-palermo-stone/",
+    "type": "Официальный отчёт исследовательской группы.",
+    "supports": "Исследовательская группа отмечает знаки размером в несколько миллиметров. Микроскопия указывает на базальт с оливином и полевым шпатом. RTI используется для различения слабых насечек."
+  },
+  "wilkinson2000": {
+    "title": "T. A. H. Wilkinson (2000), Royal Annals of Ancient Egypt: The Palermo Stone and its associated fragments",
+    "url": "https://api.pageplace.de/preview/DT0400.9781136602481_A23836848/preview-9781136602481_A23836848.pdf",
+    "type": "Научная монография, издательский ознакомительный фрагмент.",
+    "supports": "Размеры и толщина; лёгкая гравировка; схема регистров; история проблемы датировки и общего происхождения фрагментов.",
+    "note": "Приведено 43,5 × 25 см; толщина 5,1–6,5 см. В карточках первые два числа округлены. Nuzzolo (2021) даёт другие приблизительные размеры: около 45 × 23 × 6,5 см."
+  },
+  "fischer1976": {
+    "title": "H. G. Fischer, Archaeological Aspects of Epigraphy and Palaeography, в Ancient Egyptian Epigraphy and Palaeography (Metropolitan Museum, 1976)",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Ancient_Egyptian_Epigraphy_and_Palaeography.pdf",
+    "type": "Научная музейная публикация.",
+    "supports": "Возражение против гипотезы копии XXV династии: ожидаемых анахронизмов письма нет; возможна редакция V династии более ранних записей."
+  },
+  "uclAnnals": {
+    "title": "UCL Digital Egypt — Annalstone fragment",
+    "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/ideology/palermostone.html",
+    "type": "Университетская музейная учебная страница.",
+    "supports": "События по годам в верхнем регистре, уровень Нила по каждому году в нижнем."
+  },
+  "uclHistory": {
+    "title": "UCL Digital Egypt — History writing in Ancient Egypt",
+    "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/ideology/historywriting.html",
+    "type": "Университетская музейная страница.",
+    "supports": "Фрагмент UC 15508 в Музее Питри; записи событий и царские списки не тождественны современной нейтральной историографии; точное место находки не записано."
+  },
+  "salinasOfficial": {
+    "title": "Comune di Palermo — Museo Archeologico Regionale A. Salinas",
+    "url": "https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.php?det=21&id=178&tp=68",
+    "type": "Официальная городская страница музея.",
+    "supports": "Место хранения Палермского камня и адрес Piazza Olivella 24, Palermo.",
+    "note": "Здесь используется только место хранения и адрес. Дата на туристической странице не принята как основание для датировки надписи."
+  },
+  "scalf2009": {
+    "title": "Foy Scalf (2009), Rereading the 7th Count of Snefru in the Palermo Stone, Göttinger Miszellen 220, 89–93",
+    "url": "https://www.researchgate.net/publication/287811404_Rereading_the_7th_Count_of_Snefru_in_the_Palermo_Stone",
+    "type": "Первичная филологическая статья; загрузка автора, University of Chicago.",
+    "supports": "Конкретный пример записи Снофру: корабли по 100 локтей, седьмой подсчёт, уровень Нила 5 локтей + 1 ладонь + 1 палец; исправление спорного чтения владений и быков."
+  },
+  "serotta2023": {
+    "title": "Anna Serotta, Reading Tool Marks on Egyptian Stone Sculpture, Rivista del Museo Egizio 7 (2023)",
+    "url": "https://rivista.museoegizio.it/article/reading-tool-marks-on-egyptian-stone-sculpture/",
+    "type": "Исследование следов и экспериментальная археология.",
+    "supports": "Авторские опыты согласуются с неэффективностью медных и бронзовых ударных инструментов по твёрдому камню. Для тонких деталей рассматриваются кремнёвые зубила, резцы и скребки; для других стадий — ударная обработка и абразивы. Твёрдость по Моосу относится прежде всего к минералам: поведение неоднородной породы зависит также от связности и структуры. Текст отмечает нехватку однозначно атрибутированных камнерезных кремнёвых инструментов. RTI качественно выявляет следы, а не заменяет их метрологию.",
+    "note": "Это не эксперимент на Палермском камне. Кремень — обоснованный кандидат, а не установленный инструмент его резчика. Нельзя переносить корунд, засвидетельствованный в Амарне около 1350 до н. э., в V династию без отдельного доказательства."
+  },
+  "stocks2019": {
+    "title": "Denys Stocks, PhD research on ancient Egyptian tools and technologies, University of Manchester (2019)",
+    "url": "https://research.manchester.ac.uk/en/studentTheses/interrelationships-between-significant-tools-and-technologies-dev/",
+    "type": "Университетский репозиторий, аннотация диссертации.",
+    "supports": "Экспериментальная программа изучала свыше двухсот реконструированных инструментов; среди прямо перечисленных тем — расходуемые кремнёвые инструменты для обработки мягких и твёрдых камней и надрезания иероглифов, а также пиление и сверление с песчаным абразивом.",
+    "note": "Доступная аннотация не задаёт минимальный размер знака и не утверждает воспроизведение именно Палермской надписи. Абразивная пила не объясняет сама по себе любой мелкий иероглиф."
+  },
+  "dipaola2018": {
+    "title": "F. Di Paola and L. Inzerillo, 3D Reconstruction–Reverse Engineering–Digital Fabrication of the Egyptian Palermo Stone (2018)",
+    "url": "https://isprs-archives.copernicus.org/articles/XLII-2/311/2018/",
+    "type": "Исследование 3D-съёмки памятника.",
+    "supports": "Чёрная отражающая поверхность и очень неглубокие бороздки осложнили 3D-съёмку. Статья описывает структурированный свет и фотограмметрию. Паспортные значения 0,1 мм разрешения и 0,05 мм точности относятся к сканеру Artec Spider.",
+    "note": "0,1 и 0,05 мм нельзя выдавать за измеренную глубину древних знаков или точность резчика. Статья использует старую атрибуцию «диорит» и другие устаревшие исторические сведения; для материала предпочесть позднейшую микроскопию. Современная обработка mesh не доказывает древний инструмент."
+  },
+  "naville1903": {
+    "title": "Édouard Naville, La pierre de Palerme, Recueil de travaux 25 (1903), pp. 64–81, plates I–II",
+    "url": "https://archive.org/details/recueildetravaux25masp/page/n75/mode/1up",
+    "type": "Историческая публикация. Общественное достояние.",
+    "supports": "Таблица II B — историческая прорисовка оборотной стороны (verso). Скан Harold B. Lee Library / Internet Archive. В приложении сохранены линии исходника; неоновое отображение создано фильтром.",
+    "note": ""
+  },
+  "proto": {
+    "title": "Proto Civilization — «Палермский камень» (30 октября 2025)",
+    "url": "https://www.youtube.com/watch?v=-2ouNekCeR8",
+    "type": "Видеоисточник: просмотр отдельных кадров ролика.",
+    "supports": "Осмотрены кадры около 00:22, 00:33, 00:38, 00:49 и 01:02 в плеере, включая увеличения знаков и вставку выжигания дерева.",
+    "note": "Доступное изображение 480 × 854. Размерная разметка автора не проверена как независимый обмер. На странице приведён собственный разбор, без перепубликации кадров и расшифровки ролика."
+  }
+}
